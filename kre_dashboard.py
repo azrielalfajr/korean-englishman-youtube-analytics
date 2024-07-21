@@ -248,4 +248,5 @@ with col[1]:
         - **Cleaned Data**: [Korean Englishman Final Dataset](<https://drive.google.com/file/d/1VpbFf4yAZb6K8fS5uTRd4JIjUelW3mKM/view?usp=sharing>).
         - **Metrics**: Views, Likes, Comments, Engagement Ratio, etc.
         - **Analysis**: Trends in views and engagement, word cloud of common topics, etc.
+        - **Limitation**: Availability of data to retrieve (e.g. Engagement Ratio, which only counts (Likes + Comments)/Views) 
     ''')
