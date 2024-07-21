@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+plotly
+seaborn
+re
+streamlit
+altair
+google-api-python-client
+googletrans==4.0.0-rc1
+wordcloud
+scipy
+nltk
