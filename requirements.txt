@@ -3,7 +3,6 @@ numpy
 matplotlib
 plotly
 seaborn
-re
 streamlit
 altair
 google-api-python-client
