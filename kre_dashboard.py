@@ -15,7 +15,7 @@ from scipy.stats import pearsonr, ttest_ind
 from collections import Counter
 import nltk
 from nltk.corpus import stopwords
-st.set_option('deprecation.showPyplotGlobalUse', False)
+# st.set_option('deprecation.showPyplotGlobalUse', False)
 
 import warnings
 warnings.filterwarnings("ignore")
